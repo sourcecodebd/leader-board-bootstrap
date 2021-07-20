@@ -6,4 +6,4 @@ https://sourcecodebd.github.io/leader-board-bootstrap/
 [Nafi Mahmud][author]
 
 [author]: https://sourcecodebd.github.io/nafi.com/
-In this website I've shown how to apply Bootstrap CSS3 in a plain HTML5 in a beautiful way. It may help the newbies!
+Leader-Board is the same site I've previously made with raw CSS3. This time it's implemented by Bootstrap 5 framework It may help the newbies!
